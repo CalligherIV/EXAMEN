@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+}
+
+* {
+    background-color: burlywood;
+}
+
+p.enlaces {
+    text-align: center;
+    background-color: aquamarine;
+}
+
+p a {
+    background-color: aquamarine;
+    color: green;
+}
+
+div {
+    background-color: white
+}
+
+img.empresa1 {
+    float: left;
+}
+
+p.texto1 {
+    float: right;
+}
+
